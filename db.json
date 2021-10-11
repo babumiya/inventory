@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "productName": "TV",
+      "productDescription": "Telivision1",
+      "productPrice": "10000",
+      "productRating": "5"
+    },
+    {
+      "id": 3,
+      "productName": "Fridge",
+      "productDescription": "Refrigirator",
+      "productPrice": "20000",
+      "productRating": "5"
+    },
+    {
+      "id": 4,
+      "productName": "Laptop",
+      "productDescription": "Dell Laptop",
+      "productPrice": "40000",
+      "productRating": "4"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
